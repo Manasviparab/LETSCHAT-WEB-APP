@@ -41,5 +41,5 @@ function redirectToRoomName(name)
 {
     console.log(name);
     localStorage.setItem("room_name", name);
-     window.location="LETSCHAT_room.html";
+     window.location="LETSCHAT_page.html";
 }
